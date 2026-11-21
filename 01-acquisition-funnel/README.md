@@ -1,6 +1,6 @@
 # Conversion Rate by Acquisition Channel (GA4 E-commerce)
 
-**Query:** `04_conversion_cte.sql`
+**Query:** [04_conversion_cte.sql](./sql/04_conversion_cte.sql)
 **Tools:** Google BigQuery · SQL (CTEs, conditional aggregation, `SAFE_DIVIDE`)
 **Dataset:** `bigquery-public-data.ga4_obfuscated_sample_ecommerce` (Google Merchandise Store, GA4 export)
 
