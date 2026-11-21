@@ -30,4 +30,4 @@ Google Data Analytics Professional Certificate (Coursera)
 ## Contact
 
 - Email: alarconduarteana@gmail.com
-- LinkedIn: https://www.linkedin.com/in/ana-alarcon-...
+- LinkedIn: https://www.linkedin.com/in/ana-alarcon-
